@@ -1,0 +1,78 @@
+body {
+  background-color: yellow;
+}
+
+#header-style {
+background-color: red;
+padding: 10px;
+}
+
+#nav-style {
+  background-color: grey;
+  padding: 10px;
+}
+
+#nav-style ul {
+  background-color: yellow;
+  padding: 10px;
+}
+
+#nav-style ul li:first-child {
+  background-color: blue;
+  padding: 10px;
+}
+
+#span-style {
+  background-color: yellow;
+  text-decoration: underline;
+}
+
+.cool-div {
+  background-color: violet;
+  padding: 10px;
+}
+
+.cool-div p {
+  background-color: grey;
+  padding: 10px;
+}
+
+#cool-h1 {
+background-color: purple;
+}
+
+.form-style {
+background-color: #8bd2da;
+width: 500px;
+border: 2px solid purple;
+padding: 20px;
+margin: 50px auto;
+border-top-style: solid;
+border-bottom-style: dashed;
+border-top-width: 3px;
+border-top-color: red;
+}
+
+.form-style label {
+background-color: blue;
+}
+
+.mountain-style {
+  overflow: hidden;
+  margin-bottom: 300px;
+}
+.mountain-style img {
+width: 500px;
+height: 500px;
+box-sizing: border-box;
+border: 5px solid black;
+background-size: cover;
+border-radius: 50px;
+float: left;
+margin-right: 20px;
+}
+
+.pos-1 {
+  position: fixed;
+  top: 30px;
+}
